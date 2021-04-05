@@ -18,4 +18,9 @@ function unleashDog(dogName, dogBreed) {
 }
 
 function Array o'Functions!
-let routine = []
+let routine = [wakeDog
+leashDog
+walkToPark
+throwFrisbee
+walkHome
+unleashDog]
