@@ -21,6 +21,7 @@ wakeDog("Xerox", "Border Collie");
 
 let routine = ["wakeDog", "leashDog", "walkToPark", "throwFrisbee", "walkHome", "unleashDog"]
 function exerciseDog(routine){
-  console.log(routine);
-}
+  if(i=0; i<routine.length; i++){
+    console.log(i);
+  }
 exerciseDog("Byron", "poodle");
